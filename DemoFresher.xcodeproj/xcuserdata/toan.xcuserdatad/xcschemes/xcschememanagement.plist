@@ -6,8 +6,28 @@
 	<dict>
 		<key>DemoFresher.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>548095D324CDA6600004E06F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>548095E924CDA6630004E06F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>548095F424CDA6630004E06F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
